@@ -1,2 +1,2 @@
 # AWGN-_FPGA
-COntributer: Santosh Krishnan
+Contributer: Santosh Krishnan
