@@ -1,0 +1,217 @@
+log_2_2 is a register that simply contains the constant ln(2). the tool has optimized it. 
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[30] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[29] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[28] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[27] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[26] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[25] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[24] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[23] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[22] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[21] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[20] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[19] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[18] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[17] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[16] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[15] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[14] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[13] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[12] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[11] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[10] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[9] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[8] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[7] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[6] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[5] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[4] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[3] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[2] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[1] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/log_2_2_reg[0] ) is unused and will be removed from module AWGN.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+The registers were not used to they were optimized out
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[47] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[46] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[45] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[44] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[43] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[42] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[41] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[40] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[39] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[38] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[37] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[36] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[35] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[34] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[33] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[32] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[31] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[30] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[29] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[28] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[27] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[26] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[25] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[24] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[23] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[22] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[21] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[20] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[19] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[18] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[17] ) is unused and will be removed from module AWGN.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+expo_corr_d is truncated thus removing the last 4 bit. So the registers in that pipeline path are not used so it is optimized out.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[3] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[2] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[1] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/expo_corr_d_reg[0] ) is unused and will be removed from module AWGN.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+C_0_t is truncated thus removing the last bit. So the registers in that pipeline path are not used so it is optimized out.
+
+[Synth 8-3332] Sequential element (\LOG/c_0_t_reg[0] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/c_0_t_d1_reg[0] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/c_0_t_d2_reg[0] ) is unused and will be removed from module AWGN.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+The tegisters were not used to they were optimized out.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[47] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[46] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[45] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[44] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[43] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[42] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[41] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[40] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[39] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[38] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[37] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[36] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[35] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[34] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[33] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[32] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[31] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[30] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[29] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[28] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[27] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[26] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[25] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[24] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[23] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[22] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[21] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[20] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[19] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[18] ) is unused and will be removed from module AWGN.
+
+[Synth 8-3332] Sequential element (\LOG/mul3_t_d_reg[17] ) is unused and will be removed from module AWGN.

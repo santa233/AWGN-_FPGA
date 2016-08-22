@@ -1,0 +1,23 @@
+Vivado Simulator 2015.4
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.4/bin/unwrapped/win64.o/xelab.exe -wto e8f19e8a5b9b4517a0f26680a05dd828 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_AWGN_behav xil_defaultlib.tb_AWGN xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.sim/sim_1/behav/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.sim/sim_1/behav/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.cosine_module
+Compiling module xil_defaultlib.LZD_2bit
+Compiling module xil_defaultlib.LZD_16_default
+Compiling module xil_defaultlib.LZD_32_default
+Compiling module xil_defaultlib.barrel_shifter_48
+Compiling module xil_defaultlib.log_module
+Compiling module xil_defaultlib.barrel_shifter_48_right
+Compiling module xil_defaultlib.sqrt_module
+Compiling module xil_defaultlib.AWGN
+Compiling module xil_defaultlib.tb_AWGN
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_AWGN_behav

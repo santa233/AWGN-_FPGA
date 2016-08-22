@@ -1,0 +1,23 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/LZD_2bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LZD_2bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/LZD_16bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LZD_16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/barrel_shifter_48.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module barrel_shifter_48
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/LZD_32bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LZD_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/barrel_shifter_48_right.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module barrel_shifter_48_right
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/cosine_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cosine_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/log_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module log_module
+WARNING: [VRFC 10-2292] extra semicolon is not allowed here in this dialect. Use SystemVerilog mode [C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/log_module.v:72]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/sqrt_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sqrt_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sources_1/imports/AWGN/AWGN.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AWGN
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.srcs/sim_1/imports/AWGN_IP/tb_AWGN.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_AWGN
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Santosh/Desktop/Xilinx Vivado Projects/AWGN/AWGN.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

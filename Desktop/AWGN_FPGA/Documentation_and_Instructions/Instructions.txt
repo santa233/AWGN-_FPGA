@@ -1,0 +1,34 @@
+Open MATLAB. Give the appropriate path so that the project is visible.
+
+In Matlab src folder open try1.m and click run. The following files will be created: norm_dist_values.txt, 
+sqrt_values.txt, cosin_values.txt, log_values.txt, seed_hex.txt You will also see the histohram of the 
+normal distribution values generated and the result of kstest on the console(it should br 0).
+
+Open Modelsim and create the AWGN project. Make sure to include all the files in RTL src and a=the generated 
+MATLAB files in the above step.
+
+Compile and run testbench.
+Error AWGN : number of times the difference between actual value of AWGN output from MATLAB and obtained value exceed 
+threshold specified in testbench
+
+Error Cosine : number of times the difference between actual value from cosine output MATLAB and obtained value exceed 
+threshold specified in testbench
+
+Error Sqrt : number of times the difference between actual value of square root output from MATLAB and obtained value exceed 
+threshold specified in testbench
+
+Error Log : number of times the difference between actual value og Log output from MATLAB and obtained value exceed 
+threshold specified in testbench 
+
+Open Vivado and click create project. Choose the following device when prompted.
+Device : xc7vx690t
+Package : ffg1157
+Speed grade  : Any will do.
+Leave other options as it is.
+
+Add the rewuired constraint (.xdc) in the RTL project folder and the verilog files (.v) exept tb_AWGN. 
+
+Next on Left hand Side click add source > add Simulation source > add the tb_AWGN.v file and all the txt files generated 
+by the MATLAB script.
+
+Run Implementation and verify the results.
